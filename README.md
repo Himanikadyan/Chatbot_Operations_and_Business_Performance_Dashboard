@@ -1,4 +1,4 @@
-# Live Analytics Hub
+# Chatbot Operations & Business Performance Dashboard
 
 A Google Apps Script web app that shows multiple dashboards (Looker Studio, etc.) in tabs inside one portal.
 
